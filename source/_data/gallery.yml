@@ -1,0 +1,36 @@
+网站背景:
+  full_link: /images/bg.jpg
+  thumb_link: 略缩图地址
+  descr: 网站背景
+广州:
+  full_link: /images/guangzhou.jpg
+  thumb_link: 略缩图地址
+  descr: 广州珠江新城夜景
+山西:
+  full_link: /images/shanxi.jpg
+  thumb_link: 略缩图地址
+  descr: 山西阳泉乐乐与她的闺蜜们
+香港:
+  full_link: /images/shanxi.jpg
+  thumb_link: 略缩图地址
+  descr: 香港
+MarrayMe1:
+  full_link: /images/Marryme1.jpg
+  thumb_link: 略缩图地址
+  descr: MarrayMe
+MarrayMe2:
+  full_link: /images/Marryme2.jpg
+  thumb_link: 略缩图地址
+  descr: MarrayMe
+MarrayMe3:
+  full_link: /images/Marryme3.jpg
+  thumb_link: 略缩图地址
+  descr: MarrayMe
+MarrayMe4:
+  full_link: /images/Marryme4.jpg
+  thumb_link: 略缩图地址
+  descr: MarrayMe
+MarrayMe5:
+  full_link: /images/Marryme5.jpg
+  thumb_link: 略缩图地址
+  descr: MarrayMe
